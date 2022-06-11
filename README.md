@@ -13,6 +13,12 @@ Here is the list of repositories I have to present!
 
 Web service that shows currency conversions. As data source we use exchangeratesapi.io
 
+## [World Metrics](https://github.com/AlexanderShelyugov/WorldMetrics)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+Android application that displays different metrics about countries around the world
+
 ## [Web interaction engine](https://github.com/AlexanderShelyugov/WebInteractionEngine)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
