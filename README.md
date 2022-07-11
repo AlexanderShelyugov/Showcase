@@ -11,7 +11,7 @@ Here is the list of repositories I have to present!
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Web service that shows currency conversions. As data source we use exchangeratesapi.io
+Web service that shows currency conversions. As data source we use [rapidapi.com](https://rapidapi.com/natkapral/api/currency-converter5)
 
 ## [World Metrics](https://github.com/AlexanderShelyugov/WorldMetrics)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
