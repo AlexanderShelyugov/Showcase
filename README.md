@@ -1,8 +1,8 @@
 # Showcase
 
-Hello! This is a showcase repository where I keep the navigation map for my projects!
+Hello! This is a showcase repository where I keep the navigation map for my projects.
 
-Here is the list of repositories I have to present!
+Here is the list of repositories I have to present.
 
 ![Built with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
