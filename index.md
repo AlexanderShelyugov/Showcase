@@ -9,12 +9,12 @@ Here is the list of repositories I have to present.
 ## Table of contents
 
 - [Android](#Android)
-    - [World Metrics](#world-metrics)
+  - [World Metrics](#world-metrics)
 - [Java](#Java)
-    - [Convertio](#Convertio)
-    - [Web interaction engine](#web-interaction-engine)
-    - [Request blocker](#request-blocker)
-    - [Economics](#Economics)
+  - [Convertio](#Convertio)
+  - [Web interaction engine](#web-interaction-engine)
+  - [Request blocker](#request-blocker)
+  - [Economics](#Economics)
 
 ## Android
 
@@ -52,7 +52,7 @@ It uses Selenium and Testcontainers under the hood.
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-Block incoming requests from the same IP address, if there are too many of them.
+Blocks incoming requests from the same IP address, if there are too many of them.
 
 ### Economics
 
