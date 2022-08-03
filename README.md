@@ -6,16 +6,6 @@ Here is the list of repositories I have to present!
 
 ![Built with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-## Table of contents
-
-- [Android](#Android)
-    - [World Metrics](#World Metrics)
-- [Java](#Java)
-    - [Convertio](#Convertio)
-    - [Web interaction engine](#Web interaction engine)
-    - [Request blocker](#Request Blocker)
-    - [Economics](#Economics)
-
 ## Android
 
 ### [World Metrics](https://github.com/AlexanderShelyugov/WorldMetrics)
