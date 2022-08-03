@@ -20,10 +20,10 @@ Here is the list of repositories I have to present!
 
 ___
 
+## [World Metrics](https://github.com/AlexanderShelyugov/WorldMetrics)
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-## [World Metrics](https://github.com/AlexanderShelyugov/WorldMetrics)
 
 Android application that displays different metrics about countries around the world
 
